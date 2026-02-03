@@ -1,169 +1,161 @@
 {
-  "version": 8,
-  "categories": [    
-    {
-       "id": "kpop",
-       "title": "K-Pop Demon Hunters",
-       "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
-       "templates": [
-         {
-            "id": "kpop1",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/1.jpeg"
-         },
-         {
-            "id": "kpop2",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/2.jpeg"
-         },
-         {
-            "id": "kpop3",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/3.jpeg"
-         },
-         {
-            "id": "kpop4",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/4.jpeg"
-         },
-         {
-            "id": "kpop5",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/5.jpeg"
-         },
-         {
-            "id": "kpop6",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/6.jpeg"
-         },
-         {
-            "id": "kpop7",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/7.jpeg"
-         },
-         {
-            "id": "kpop8",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/8.jpeg"
-         },
-         {
-            "id": "kpop9",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/9.jpeg"
-         },
-         {
-            "id": "kpop10",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/10.jpeg"
-         },
-         {
-            "id": "kpop11",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/11.jpeg"
-         },
-         {
-            "id": "kpop12",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/12.jpeg"
-         },
-         {
-            "id": "kpop13",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/13.jpeg"
-         },
-         {
-            "id": "kpop14",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/14.jpeg"
-         },
-         {
-            "id": "kpop15",
-            "title": "Hunter 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/15.jpeg"
-         },
-		     {
-       "id": "car",
-       "title": "Arabalar",
-       "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
-       "templates": [
-         {
-            "id": "car1",
-            "title": "Araba 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car1.jpeg"
-         },
-         {
-            "id": "car2",
-            "title": "Araba 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car2.jpeg"
-         },
-         {
-            "id": "car3",
-            "title": "Araba 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car3.jpeg"
-         },
-         {
-            "id": "car4",
-            "title": "Araba 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car4.jpeg"
-         },
-         {
-            "id": "car5",
-            "title": "Araba 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car5.jpeg"
-         },
-         {
-            "id": "car6",
-            "title": "Araba 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car6.jpeg"
-         },
-         {
-            "id": "car7",
-            "title": "Araba 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car7.jpeg"
-         },
-         {
-            "id": "car8",
-            "title": "Araba 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car8.jpeg"
-         },
-         {
-            "id": "car9",
-            "title": "Araba 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car9.jpeg"
-         },
-		     {
-       "id": "pokemon",
-       "title": "Pokemon",
-       "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
-       "templates": [
-         {
-            "id": "pokemon1",
-            "title": "Pokemon 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon1.jpeg"
-         },
-         {
-            "id": "pokemon2",
-            "title": "Pokemon 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon2.jpeg"
-         },
-         {
-            "id": "pokemon3",
-            "title": "Pokemon 1",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon3.jpeg"
-         }
-       ]
-    }
-  ]
+   "version": 9,
+   "categories": [
+      {
+         "id": "kpop",
+         "title": "K-Pop Demon Hunters",
+         "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+         "templates": [
+            {
+               "id": "kpop1",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/1.jpeg"
+            },
+            {
+               "id": "kpop2",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/2.jpeg"
+            },
+            {
+               "id": "kpop3",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/3.jpeg"
+            },
+            {
+               "id": "kpop4",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/4.jpeg"
+            },
+            {
+               "id": "kpop5",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/5.jpeg"
+            },
+            {
+               "id": "kpop6",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/6.jpeg"
+            },
+            {
+               "id": "kpop7",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/7.jpeg"
+            },
+            {
+               "id": "kpop8",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/8.jpeg"
+            },
+            {
+               "id": "kpop9",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/9.jpeg"
+            },
+            {
+               "id": "kpop10",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/10.jpeg"
+            },
+            {
+               "id": "kpop11",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/11.jpeg"
+            },
+            {
+               "id": "kpop12",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/12.jpeg"
+            },
+            {
+               "id": "kpop13",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/13.jpeg"
+            },
+            {
+               "id": "kpop14",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/14.jpeg"
+            },
+            {
+               "id": "kpop15",
+               "title": "Hunter 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/15.jpeg"
+            }
+         ]
+      },
+      {
+         "id": "car",
+         "title": "Arabalar",
+         "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+         "templates": [
+            {
+               "id": "car1",
+               "title": "Araba 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car1.jpeg"
+            },
+            {
+               "id": "car2",
+               "title": "Araba 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car2.jpeg"
+            },
+            {
+               "id": "car3",
+               "title": "Araba 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car3.jpeg"
+            },
+            {
+               "id": "car4",
+               "title": "Araba 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car4.jpeg"
+            },
+            {
+               "id": "car5",
+               "title": "Araba 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car5.jpeg"
+            },
+            {
+               "id": "car6",
+               "title": "Araba 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car6.jpeg"
+            },
+            {
+               "id": "car7",
+               "title": "Araba 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car7.jpeg"
+            },
+            {
+               "id": "car8",
+               "title": "Araba 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car8.jpeg"
+            },
+            {
+               "id": "car9",
+               "title": "Araba 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car9.jpeg"
+            }
+         ]
+      },
+      {
+         "id": "pokemon",
+         "title": "Pokemon",
+         "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+         "templates": [
+            {
+               "id": "pokemon1",
+               "title": "Pokemon 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon1.jpeg"
+            },
+            {
+               "id": "pokemon2",
+               "title": "Pokemon 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon2.jpeg"
+            },
+            {
+               "id": "pokemon3",
+               "title": "Pokemon 1",
+               "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon3.jpeg"
+            }
+         ]
+      }
+   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-

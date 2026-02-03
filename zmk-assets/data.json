@@ -2,15 +2,33 @@
   "version": 1,
   "categories": [
     {
-      "id": "hayvanlar",
+      "id": "animals",
       "title": "Sevimli Hayvanlar",
+      "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/animals.png",
       "templates": [
         {
-          "id": "kopek",
-          "url": "https://raw.githubusercontent.com/SENIN_KULLANICI_ADIN/zmk-assets/main/templates/kopek.png",
-          "title": "Köpekçik"
+          "id": "1",
+          "title": "Köpekçik",
+          "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/templates/1.png"
+        },
+        {
+          "id": "2",
+          "title": "Kedicik",
+          "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/templates/2.png"
         }
       ]
+    },
+    {
+       "id": "kpop",
+       "title": "K-Pop Demon Hunters",
+       "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+       "templates": [
+         {
+            "id": "kpop1",
+            "title": "Hunter 1",
+            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/templates/kpop1.png"
+         }
+       ]
     }
   ]
 }

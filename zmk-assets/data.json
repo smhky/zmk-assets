@@ -1,23 +1,6 @@
 {
   "version": 7,
-  "categories": [
-    {
-      "id": "animals",
-      "title": "Sevimli Hayvanlar",
-      "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/animals.png",
-      "templates": [
-        {
-          "id": "1",
-          "title": "Köpekçik",
-          "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/templates/1.png"
-        },
-        {
-          "id": "2",
-          "title": "Kedicik",
-          "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/templates/2.png"
-        }
-      ]
-    },
+  "categories": [    
     {
        "id": "kpop",
        "title": "K-Pop Demon Hunters",
@@ -102,6 +85,7 @@
     }
   ]
 }
+
 
 
 

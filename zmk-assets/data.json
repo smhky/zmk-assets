@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "hayvanlar",
+      "title": "Sevimli Hayvanlar",
+      "templates": [
+        {
+          "id": "kopek",
+          "url": "https://raw.githubusercontent.com/SENIN_KULLANICI_ADIN/zmk-assets/main/templates/kopek.png",
+          "title": "Köpekçik"
+        }
+      ]
+    }
+  ]
+}

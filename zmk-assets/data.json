@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "categories": [
     {
       "id": "animals",
@@ -29,7 +29,7 @@
             "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/1.jpeg"
          },
          {
-            "id": "kpop3",
+            "id": "kpop2",
             "title": "Hunter 1",
             "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/2.jpeg"
          },
@@ -102,6 +102,7 @@
     }
   ]
 }
+
 
 
 

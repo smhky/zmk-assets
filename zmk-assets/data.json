@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 2,
     "categories": [
         {
             "id": "kpop",
@@ -235,8 +235,34 @@
                     "id": "mandala2",
                     "title": "Mandala 2",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala2.jpeg"
+                },
+                {
+                    "id": "mandala3",
+                    "title": "Mandala 3",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala3.jpeg"
+                },
+                {
+                    "id": "mandala4",
+                    "title": "Mandala 4",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala4.jpeg"
+                },
+                {
+                    "id": "mandala5",
+                    "title": "Mandala 5",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala5.jpeg"
+                },
+                {
+                    "id": "mandala6",
+                    "title": "Mandala 6",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala6.jpeg"
+                },
+                {
+                    "id": "mandala7",
+                    "title": "Mandala 7",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala7.jpeg"
                 }
             ]
         }
     ]
 }
+

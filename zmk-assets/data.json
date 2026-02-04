@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 10,
     "categories": [
         {
             "id": "kpop",
@@ -262,8 +262,33 @@
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala7.jpeg"
                 }
             ]
+        },
+        {
+            "id": "manzara",
+            "title": "Dağ ve Orman Manzarası",
+            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+            "templates": [
+                {
+                    "id": "manzara1",
+                    "title": "Manzara 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara1.jpeg"
+                },
+                {
+                    "id": "manzara2",
+                    "title": "Manzara 2",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara2.jpeg"
+                },
+                {
+                    "id": "manzara3",
+                    "title": "Manzara 3",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara3.jpeg"
+                },
+                {
+                    "id": "manzara4",
+                    "title": "Manzara 4",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara4.jpeg"
+                }
+            ]
         }
     ]
 }
-
-

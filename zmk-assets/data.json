@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 1,
     "categories": [
         {
             "id": "kpop",
@@ -265,4 +265,5 @@
         }
     ]
 }
+
 

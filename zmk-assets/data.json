@@ -1,5 +1,5 @@
 {
-    "version": 12,
+    "version": 13,
     "categories": [
         {
             "id": "kpop",
@@ -294,8 +294,21 @@
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara4.jpeg"
                 }
             ]
-        }
+        },
+        {
+            "id": "anime",
+            "title": "Anime",
+            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+            "templates": [
+                {
+                    "id": "pokemon1",
+                    "title": "Pokemon 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/anime1.jpeg"
+                }
+            ]
+        },
     ]
 }
+
 
 

@@ -1,5 +1,5 @@
 {
-    "version": 14,
+    "version": 15,
     "categories": [
         {
             "id": "kpop",
@@ -301,14 +301,15 @@
             "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
             "templates": [
                 {
-                    "id": "pokemon1",
-                    "title": "Pokemon 1",
+                    "id": "anime1",
+                    "title": "Anime 1",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/anime1.jpeg"
                 }
             ]
         },
     ]
 }
+
 
 
 

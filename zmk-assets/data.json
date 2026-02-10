@@ -10,11 +10,17 @@
                     "id": "kpop1",
                     "title": "Hunter 1",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala1.jpeg"
+                },
+                {
+                    "id": "mandala1",
+                    "title": "Hunter 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala2.png"
                 }
             ]
         }
     ]
 }
+
 
 
 

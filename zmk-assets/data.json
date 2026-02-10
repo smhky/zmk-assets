@@ -1,5 +1,5 @@
 {
-    "version": 14,
+    "version": 15,
     "categories": [
         {
             "id": "kpop",
@@ -15,11 +15,22 @@
                     "id": "mandala1",
                     "title": "Hunter 1",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala2.png"
+                },
+                {
+                    "id": "mandala3",
+                    "title": "Hunter 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala3.jpeg"
+                },
+                {
+                    "id": "mandala4",
+                    "title": "Hunter 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala4.jpeg"
                 }
             ]
         }
     ]
 }
+
 
 
 

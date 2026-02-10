@@ -25,11 +25,17 @@
                     "id": "mandala4",
                     "title": "Hunter 1",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala4.jpeg"
+                },
+                {
+                    "id": "mandala5",
+                    "title": "Mandala 5",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala5.png"
                 }
             ]
         }
     ]
 }
+
 
 
 

@@ -1,5 +1,5 @@
 {
-    "version": 20,
+    "version": 21,
     "categories": [
         {
             "id": "kpop",
@@ -318,15 +318,16 @@
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala5.png"
                 },
                 {
-                    "id": "mandala6",
-                    "title": "Mandala 6",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala6.png"
+                    "id": "mandala7",
+                    "title": "Mandala 7",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala7.png"
                 }
             ]
         }
     ]
 
 }
+
 
 
 

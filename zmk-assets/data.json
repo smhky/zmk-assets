@@ -1,5 +1,5 @@
 {
-    "version": 23,
+    "version": 24,
     "categories": [
         {
             "id": "kpop",
@@ -343,6 +343,11 @@
                     "id": "iek1-1770993820089",
                     "title": "Çiçek1",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/1770993809785_Designer (4).jpeg"
+                },
+                {
+                    "id": "cicek-2-1770994513195",
+                    "title": "Çiçek 2",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/1770994504834_Designer (1).jpeg"
                 }
             ]
         }

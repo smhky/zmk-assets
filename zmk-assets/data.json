@@ -1,15 +1,322 @@
 {
-    "version": 25,
+    "version": 26,
     "categories": [
+        {
+            "id": "pokemon",
+            "title": "Pokemon",
+            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+            "order": 1,
+            "isVisible": true,
+            "group": "kids",
+            "templates": [
+                {
+                    "id": "pokemon1",
+                    "title": "Pokemon 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon1.jpeg",
+                    "isPopular": true
+                },
+                {
+                    "id": "pokemon2",
+                    "title": "Pokemon 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon2.jpeg",
+                    "isPopular": true
+                },
+                {
+                    "id": "pokemon3",
+                    "title": "Pokemon 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon3.jpeg"
+                }
+            ]
+        },
+        {
+            "id": "frozen",
+            "title": "Frozen Karlar Ülkesi",
+            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+            "order": 2,
+            "isVisible": true,
+            "group": "kids",
+            "templates": [
+                {
+                    "id": "frozen1",
+                    "title": "Frozen 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen1.jpeg"
+                },
+                {
+                    "id": "frozen2",
+                    "title": "Frozen 2",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen2.jpeg"
+                },
+                {
+                    "id": "frozen3",
+                    "title": "Frozen 3",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen3.jpeg"
+                },
+                {
+                    "id": "frozen4",
+                    "title": "Frozen 4",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen4.jpeg"
+                },
+                {
+                    "id": "frozen5",
+                    "title": "Frozen 5",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen5.jpeg"
+                }
+            ]
+        },
+        {
+            "id": "barbie",
+            "title": "Barbie",
+            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+            "order": 3,
+            "isVisible": true,
+            "group": "kids",
+            "templates": [
+                {
+                    "id": "barbie1",
+                    "title": "Barbie 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie1.jpeg"
+                },
+                {
+                    "id": "barbie2",
+                    "title": "Barbie 2",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie2.jpeg"
+                },
+                {
+                    "id": "barbie3",
+                    "title": "Barbie 3",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie3.jpeg"
+                },
+                {
+                    "id": "barbie4",
+                    "title": "Barbie 4",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie4.jpeg"
+                },
+                {
+                    "id": "barbie5",
+                    "title": "Barbie 5",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie5.jpeg"
+                }
+            ]
+        },
+        {
+            "id": "car",
+            "title": "Arabalar",
+            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+            "order": 4,
+            "isVisible": true,
+            "group": "kids",
+            "templates": [
+                {
+                    "id": "car1",
+                    "title": "Araba 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car1.jpeg"
+                },
+                {
+                    "id": "car2",
+                    "title": "Araba 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car2.jpeg"
+                },
+                {
+                    "id": "car3",
+                    "title": "Araba 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car3.jpeg"
+                },
+                {
+                    "id": "car4",
+                    "title": "Araba 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car4.jpeg"
+                },
+                {
+                    "id": "car5",
+                    "title": "Araba 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car5.jpeg"
+                },
+                {
+                    "id": "car6",
+                    "title": "Araba 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car6.jpeg"
+                },
+                {
+                    "id": "car7",
+                    "title": "Araba 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car7.jpeg"
+                },
+                {
+                    "id": "car8",
+                    "title": "Araba 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car8.jpeg"
+                },
+                {
+                    "id": "car9",
+                    "title": "Araba 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car9.jpeg"
+                }
+            ]
+        },
+        {
+            "id": "anime",
+            "title": "Anime",
+            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+            "order": 5,
+            "isVisible": true,
+            "group": "kids",
+            "templates": [
+                {
+                    "id": "anime1",
+                    "title": "Anime 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/anime1.jpeg"
+                }
+            ]
+        },
+        {
+            "id": "mandala",
+            "title": "Mandala",
+            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+            "order": 1,
+            "isVisible": true,
+            "group": "adults",
+            "templates": [
+                {
+                    "id": "mandala1",
+                    "title": "Mandala 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala1.jpeg",
+                    "isPopular": true
+                },
+                {
+                    "id": "mandala2",
+                    "title": "Mandala 2",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala2.jpeg",
+                    "isPopular": true
+                },
+                {
+                    "id": "mandala3",
+                    "title": "Mandala 3",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala3.jpeg"
+                },
+                {
+                    "id": "mandala4",
+                    "title": "Mandala 4",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala4.jpeg"
+                },
+                {
+                    "id": "mandala5",
+                    "title": "Mandala 5",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala5.jpeg"
+                },
+                {
+                    "id": "mandala6",
+                    "title": "Mandala 6",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala6.jpeg"
+                },
+                {
+                    "id": "mandala7",
+                    "title": "Mandala 7",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala7.jpeg"
+                },
+                {
+                    "id": "mandala8",
+                    "title": "Mandala 8",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala8.jpeg"
+                }
+            ]
+        },
+        {
+            "id": "mandala1",
+            "title": "Yeni Mandala",
+            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+            "order": 2,
+            "isVisible": true,
+            "group": "adults",
+            "templates": [
+                {
+                    "id": "mandala5_new",
+                    "title": "Mandala 5",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala5.png",
+                    "isNew": true
+                },
+                {
+                    "id": "mandala7_new",
+                    "title": "Mandala 7",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala7.png",
+                    "isNew": true
+                },
+                {
+                    "id": "mandala8_new",
+                    "title": "Mandala 8",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala8.jpeg",
+                    "isNew": true
+                },
+                {
+                    "id": "mandala9_new",
+                    "title": "Mandala 9",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala9.jpeg",
+                    "isNew": true
+                }
+            ]
+        },
+        {
+            "id": "manzara",
+            "title": "Dağ ve Orman Manzarası",
+            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+            "order": 3,
+            "isVisible": true,
+            "group": "adults",
+            "templates": [
+                {
+                    "id": "manzara1",
+                    "title": "Manzara 1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara1.jpeg"
+                },
+                {
+                    "id": "manzara2",
+                    "title": "Manzara 2",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara2.jpeg"
+                },
+                {
+                    "id": "manzara3",
+                    "title": "Manzara 3",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara3.jpeg"
+                },
+                {
+                    "id": "manzara4",
+                    "title": "Manzara 4",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara4.jpeg"
+                }
+            ]
+        },
+        {
+            "id": "iek",
+            "title": "Çiçek",
+            "image": "",
+            "order": 4,
+            "isVisible": true,
+            "group": "adults",
+            "templates": [
+                {
+                    "id": "iek1-1770993820089",
+                    "title": "Çiçek1",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/cicek1.jpeg"
+                },
+                {
+                    "id": "cicek-2-1770994513195",
+                    "title": "Çiçek 2",
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/cicek2.jpeg"
+                }
+            ]
+        },
         {
             "id": "kpop",
             "title": "K-Pop Demon Hunters",
             "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
+            "order": 5,
+            "isVisible": true,
+            "group": "adults",
             "templates": [
                 {
                     "id": "kpop1",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/1.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/1.jpeg",
+                    "isNew": true
                 },
                 {
                     "id": "kpop2",
@@ -80,274 +387,6 @@
                     "id": "kpop15",
                     "title": "Hunter 1",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/15.jpeg"
-                }
-            ]
-        },
-        {
-            "id": "car",
-            "title": "Arabalar",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
-            "templates": [
-                {
-                    "id": "car1",
-                    "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car1.jpeg"
-                },
-                {
-                    "id": "car2",
-                    "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car2.jpeg"
-                },
-                {
-                    "id": "car3",
-                    "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car3.jpeg"
-                },
-                {
-                    "id": "car4",
-                    "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car4.jpeg"
-                },
-                {
-                    "id": "car5",
-                    "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car5.jpeg"
-                },
-                {
-                    "id": "car6",
-                    "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car6.jpeg"
-                },
-                {
-                    "id": "car7",
-                    "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car7.jpeg"
-                },
-                {
-                    "id": "car8",
-                    "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car8.jpeg"
-                },
-                {
-                    "id": "car9",
-                    "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car9.jpeg"
-                }
-            ]
-        },
-        {
-            "id": "pokemon",
-            "title": "Pokemon",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
-            "templates": [
-                {
-                    "id": "pokemon1",
-                    "title": "Pokemon 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon1.jpeg"
-                },
-                {
-                    "id": "pokemon2",
-                    "title": "Pokemon 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon2.jpeg"
-                },
-                {
-                    "id": "pokemon3",
-                    "title": "Pokemon 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon3.jpeg"
-                }
-            ]
-        },
-        {
-            "id": "frozen",
-            "title": "Frozen Karlar Ülkesi",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
-            "templates": [
-                {
-                    "id": "frozen1",
-                    "title": "Frozen 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen1.jpeg"
-                },
-                {
-                    "id": "frozen2",
-                    "title": "Frozen 2",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen2.jpeg"
-                },
-                {
-                    "id": "frozen3",
-                    "title": "Frozen 3",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen3.jpeg"
-                },
-                {
-                    "id": "frozen4",
-                    "title": "Frozen 4",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen4.jpeg"
-                },
-                {
-                    "id": "frozen5",
-                    "title": "Frozen 5",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen5.jpeg"
-                }
-            ]
-        },
-        {
-            "id": "barbie",
-            "title": "Barbie",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
-            "templates": [
-                {
-                    "id": "barbie1",
-                    "title": "Barbie 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie1.jpeg"
-                },
-                {
-                    "id": "barbie2",
-                    "title": "Barbie 2",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie2.jpeg"
-                },
-                {
-                    "id": "barbie3",
-                    "title": "Barbie 3",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie3.jpeg"
-                },
-                {
-                    "id": "barbie4",
-                    "title": "Barbie 4",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie4.jpeg"
-                },
-                {
-                    "id": "barbie5",
-                    "title": "Barbie 5",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie5.jpeg"
-                }
-            ]
-        },
-        {
-            "id": "mandala",
-            "title": "Mandala",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
-            "templates": [
-                {
-                    "id": "mandala1",
-                    "title": "Mandala 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala1.jpeg"
-                },
-                {
-                    "id": "mandala2",
-                    "title": "Mandala 2",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala2.jpeg"
-                },
-                {
-                    "id": "mandala3",
-                    "title": "Mandala 3",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala3.jpeg"
-                },
-                {
-                    "id": "mandala4",
-                    "title": "Mandala 4",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala4.jpeg"
-                },
-                {
-                    "id": "mandala5",
-                    "title": "Mandala 5",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala5.jpeg"
-                },
-                {
-                    "id": "mandala6",
-                    "title": "Mandala 6",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala6.jpeg"
-                },
-                {
-                    "id": "mandala7",
-                    "title": "Mandala 7",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala7.jpeg"
-                },
-                {
-                    "id": "mandala8",
-                    "title": "Mandala 8",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala8.jpeg"
-                }
-            ]
-        },
-        {
-            "id": "manzara",
-            "title": "Dağ ve Orman Manzarası",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
-            "templates": [
-                {
-                    "id": "manzara1",
-                    "title": "Manzara 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara1.jpeg"
-                },
-                {
-                    "id": "manzara2",
-                    "title": "Manzara 2",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara2.jpeg"
-                },
-                {
-                    "id": "manzara3",
-                    "title": "Manzara 3",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara3.jpeg"
-                },
-                {
-                    "id": "manzara4",
-                    "title": "Manzara 4",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara4.jpeg"
-                }
-            ]
-        },
-        {
-            "id": "anime",
-            "title": "Anime",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
-            "templates": [
-                {
-                    "id": "anime1",
-                    "title": "Anime 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/anime1.jpeg"
-                }
-            ]
-        },
-        {
-            "id": "mandala1",
-            "title": "Yeni Mandala",
-            "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/covers/kpop.png",
-            "templates": [
-                {
-                    "id": "mandala5",
-                    "title": "Mandala 5",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala5.png"
-                },
-                {
-                    "id": "mandala7",
-                    "title": "Mandala 7",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala7.png"
-                },
-                {
-                    "id": "mandala8",
-                    "title": "Mandala 8",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala8.jpeg"
-                },
-                {
-                    "id": "mandala9",
-                    "title": "Mandala 9",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala9.jpeg"
-                }
-            ]
-        },
-        {
-            "id": "iek",
-            "title": "Çiçek",
-            "image": "",
-            "templates": [
-                {
-                    "id": "iek1-1770993820089",
-                    "title": "Çiçek1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/cicek1.jpeg"
-                },
-                {
-                    "id": "cicek-2-1770994513195",
-                    "title": "Çiçek 2",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/cicek2.jpeg"
                 }
             ]
         }

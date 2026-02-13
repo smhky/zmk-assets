@@ -55,13 +55,18 @@
                     "id": "frozen3",
                     "title": "Frozen 3",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen3.jpeg",
-                    "order": 3
+                    "order": 3,
+                    "isLocked": true,
+                    "starCost": 2
                 },
                 {
                     "id": "frozen4",
                     "title": "Frozen 4",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen4.jpeg",
-                    "order": 4
+                    "order": 4,
+                    "isLocked": true,
+                    "starCost": 5,
+                    "disableAd": true
                 },
                 {
                     "id": "frozen5",

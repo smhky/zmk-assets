@@ -13,18 +13,21 @@
                     "id": "pokemon1",
                     "title": "Pokemon 1",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon1.jpeg",
-                    "isPopular": true
+                    "isPopular": true,
+                    "order": 1
                 },
                 {
                     "id": "pokemon2",
                     "title": "Pokemon 1",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon2.jpeg",
-                    "isPopular": true
+                    "isPopular": true,
+                    "order": 2
                 },
                 {
                     "id": "pokemon3",
                     "title": "Pokemon 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon3.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/pokemon3.jpeg",
+                    "order": 3
                 }
             ]
         },
@@ -39,27 +42,32 @@
                 {
                     "id": "frozen1",
                     "title": "Frozen 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen1.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen1.jpeg",
+                    "order": 1
                 },
                 {
                     "id": "frozen2",
                     "title": "Frozen 2",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen2.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen2.jpeg",
+                    "order": 2
                 },
                 {
                     "id": "frozen3",
                     "title": "Frozen 3",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen3.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen3.jpeg",
+                    "order": 3
                 },
                 {
                     "id": "frozen4",
                     "title": "Frozen 4",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen4.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen4.jpeg",
+                    "order": 4
                 },
                 {
                     "id": "frozen5",
                     "title": "Frozen 5",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen5.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/frozen5.jpeg",
+                    "order": 5
                 }
             ]
         },
@@ -74,27 +82,32 @@
                 {
                     "id": "barbie1",
                     "title": "Barbie 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie1.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie1.jpeg",
+                    "order": 1
                 },
                 {
                     "id": "barbie2",
                     "title": "Barbie 2",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie2.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie2.jpeg",
+                    "order": 2
                 },
                 {
                     "id": "barbie3",
                     "title": "Barbie 3",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie3.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie3.jpeg",
+                    "order": 3
                 },
                 {
                     "id": "barbie4",
                     "title": "Barbie 4",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie4.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie4.jpeg",
+                    "order": 4
                 },
                 {
                     "id": "barbie5",
                     "title": "Barbie 5",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie5.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/barbie5.jpeg",
+                    "order": 5
                 }
             ]
         },
@@ -109,47 +122,56 @@
                 {
                     "id": "car1",
                     "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car1.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car1.jpeg",
+                    "order": 1
                 },
                 {
                     "id": "car2",
                     "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car2.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car2.jpeg",
+                    "order": 2
                 },
                 {
                     "id": "car3",
                     "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car3.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car3.jpeg",
+                    "order": 3
                 },
                 {
                     "id": "car4",
                     "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car4.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car4.jpeg",
+                    "order": 4
                 },
                 {
                     "id": "car5",
                     "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car5.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car5.jpeg",
+                    "order": 5
                 },
                 {
                     "id": "car6",
                     "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car6.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car6.jpeg",
+                    "order": 6
                 },
                 {
                     "id": "car7",
                     "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car7.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car7.jpeg",
+                    "order": 7
                 },
                 {
                     "id": "car8",
                     "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car8.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car8.jpeg",
+                    "order": 8
                 },
                 {
                     "id": "car9",
                     "title": "Araba 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car9.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/car9.jpeg",
+                    "order": 9
                 }
             ]
         },
@@ -164,7 +186,8 @@
                 {
                     "id": "anime1",
                     "title": "Anime 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/anime1.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/anime1.jpeg",
+                    "order": 1
                 }
             ]
         },
@@ -180,43 +203,51 @@
                     "id": "mandala1",
                     "title": "Mandala 1",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala1.jpeg",
-                    "isPopular": true
+                    "isPopular": true,
+                    "order": 1
                 },
                 {
                     "id": "mandala2",
                     "title": "Mandala 2",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala2.jpeg",
-                    "isPopular": true
+                    "isPopular": true,
+                    "order": 2
                 },
                 {
                     "id": "mandala3",
                     "title": "Mandala 3",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala3.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala3.jpeg",
+                    "order": 3
                 },
                 {
                     "id": "mandala4",
                     "title": "Mandala 4",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala4.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala4.jpeg",
+                    "order": 4
                 },
                 {
                     "id": "mandala5",
                     "title": "Mandala 5",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala5.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala5.jpeg",
+                    "order": 5
                 },
                 {
                     "id": "mandala6",
                     "title": "Mandala 6",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala6.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala6.jpeg",
+                    "order": 6
                 },
                 {
                     "id": "mandala7",
                     "title": "Mandala 7",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala7.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala7.jpeg",
+                    "order": 7
                 },
                 {
                     "id": "mandala8",
                     "title": "Mandala 8",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala8.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala8.jpeg",
+                    "order": 8
                 }
             ]
         },
@@ -232,25 +263,29 @@
                     "id": "mandala5_new",
                     "title": "Mandala 5",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala5.png",
-                    "isNew": true
+                    "isNew": true,
+                    "order": 1
                 },
                 {
                     "id": "mandala7_new",
                     "title": "Mandala 7",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala7.png",
-                    "isNew": true
+                    "isNew": true,
+                    "order": 2
                 },
                 {
                     "id": "mandala8_new",
                     "title": "Mandala 8",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala8.jpeg",
-                    "isNew": true
+                    "isNew": true,
+                    "order": 3
                 },
                 {
                     "id": "mandala9_new",
                     "title": "Mandala 9",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/mandala9.jpeg",
-                    "isNew": true
+                    "isNew": true,
+                    "order": 4
                 }
             ]
         },
@@ -265,22 +300,26 @@
                 {
                     "id": "manzara1",
                     "title": "Manzara 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara1.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara1.jpeg",
+                    "order": 1
                 },
                 {
                     "id": "manzara2",
                     "title": "Manzara 2",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara2.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara2.jpeg",
+                    "order": 2
                 },
                 {
                     "id": "manzara3",
                     "title": "Manzara 3",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara3.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara3.jpeg",
+                    "order": 3
                 },
                 {
                     "id": "manzara4",
                     "title": "Manzara 4",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara4.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/manzara4.jpeg",
+                    "order": 4
                 }
             ]
         },
@@ -295,12 +334,14 @@
                 {
                     "id": "iek1-1770993820089",
                     "title": "Çiçek1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/cicek1.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/cicek1.jpeg",
+                    "order": 1
                 },
                 {
                     "id": "cicek-2-1770994513195",
                     "title": "Çiçek 2",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/cicek2.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/cicek2.jpeg",
+                    "order": 2
                 }
             ]
         },
@@ -316,77 +357,92 @@
                     "id": "kpop1",
                     "title": "Hunter 1",
                     "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/1.jpeg",
-                    "isNew": true
+                    "isNew": true,
+                    "order": 1
                 },
                 {
                     "id": "kpop2",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/2.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/2.jpeg",
+                    "order": 2
                 },
                 {
                     "id": "kpop3",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/3.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/3.jpeg",
+                    "order": 3
                 },
                 {
                     "id": "kpop4",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/4.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/4.jpeg",
+                    "order": 4
                 },
                 {
                     "id": "kpop5",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/5.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/5.jpeg",
+                    "order": 5
                 },
                 {
                     "id": "kpop6",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/6.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/6.jpeg",
+                    "order": 6
                 },
                 {
                     "id": "kpop7",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/7.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/7.jpeg",
+                    "order": 7
                 },
                 {
                     "id": "kpop8",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/8.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/8.jpeg",
+                    "order": 8
                 },
                 {
                     "id": "kpop9",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/9.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/9.jpeg",
+                    "order": 9
                 },
                 {
                     "id": "kpop10",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/10.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/10.jpeg",
+                    "order": 10
                 },
                 {
                     "id": "kpop11",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/11.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/11.jpeg",
+                    "order": 11
                 },
                 {
                     "id": "kpop12",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/12.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/12.jpeg",
+                    "order": 12
                 },
                 {
                     "id": "kpop13",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/13.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/13.jpeg",
+                    "order": 13
                 },
                 {
                     "id": "kpop14",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/14.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/14.jpeg",
+                    "order": 14
                 },
                 {
                     "id": "kpop15",
                     "title": "Hunter 1",
-                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/15.jpeg"
+                    "image": "https://raw.githubusercontent.com/smhky/zmk-assets/main/zmk-assets/templates/15.jpeg",
+                    "order": 15
                 }
             ]
         }
